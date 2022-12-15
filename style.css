@@ -1,0 +1,26 @@
+* {
+    background-color: orange;
+    color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: solid 1px white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 18px 10px;
+    width: 100px;
+    margin: 10px;
+    outline: none;
+}
+
+button:hover {
+    background: white;
+    color: orange;
+}
